@@ -59,6 +59,7 @@
       <updated>1601147356093</updated>
       <workItem from="1601147357120" duration="812000" />
       <workItem from="1601221572702" duration="3169000" />
+      <workItem from="1601233248782" duration="97000" />
     </task>
     <servers />
   </component>
@@ -75,6 +76,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="170" key="SettingsEditor" timestamp="1601221638544">
