@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/UofU_Bootcamp_HW3.iml" filepath="$PROJECT_DIR$/.idea/UofU_Bootcamp_HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../uofu-san-fsf-pt-08-2020-u-c/.idea/uofu-san-fsf-pt-08-2020-u-c.iml" filepath="$PROJECT_DIR$/../uofu-san-fsf-pt-08-2020-u-c/.idea/uofu-san-fsf-pt-08-2020-u-c.iml" />
     </modules>
   </component>
 </project>

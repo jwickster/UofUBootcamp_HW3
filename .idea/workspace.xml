@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41308e76-c0ca-4a0b-aef3-54938c06cb85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/UofU_Bootcamp_HW3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UofU_Bootcamp_HW3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i3rwYUue47psTLTyfgZjROYZLM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,7 +68,8 @@
       <workItem from="1601221572702" duration="3169000" />
       <workItem from="1601233248782" duration="97000" />
       <workItem from="1601300193899" duration="422000" />
-      <workItem from="1601300631026" duration="1324000" />
+      <workItem from="1601300631026" duration="1671000" />
+      <workItem from="1601335575914" duration="3478000" />
     </task>
     <servers />
   </component>
