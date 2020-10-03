@@ -16,8 +16,9 @@ generateBtn.addEventListener("click", writePassword);
 //Arrays for randomized choices by the computer
 const specChar = ["!", "@", "#", "$", "%", "^", "&", "*", "?", "~", "<", ">",")","("];
 const numbersArray = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
-let upperCaseLettersArr = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R",
-  "S", "T", "U", "V", "W", "X", "Y", "Z"];
+let upperCaseLettersArr = [ "A", "B", "C", "D", "E", "F", "G", "H", "I",
+                            "J", "K", "L", "M", "N", "O", "P", "Q", "R",
+                            "S", "T", "U", "V", "W", "X", "Y", "Z"];
 let lowerCaseLettersArr = [];
 let combinedNumbersArr = [];
 
